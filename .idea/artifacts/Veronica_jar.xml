@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Veronica:jar">
+    <output-path>D:/Media/Desktop</output-path>
+    <root id="archive" name="ANN.jar">
+      <element id="module-output" name="ANN" />
+    </root>
+  </artifact>
+</component>

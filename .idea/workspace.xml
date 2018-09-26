@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ANN:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af924a5c-b5d2-47fc-a641-9e9ec38352dc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ANN$MainSoraya.ic" NAME="MainSoraya Coverage Results" MODIFIED="1530884388662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NeuronaEntrada.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/NeuronaEntrada.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NeuronaOculta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/NeuronaOculta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sinapsis.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Sinapsis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Capa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Capa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Neurona.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Neurona.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Propagacion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Propagacion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>println</find>
+      <find>sigmo</find>
+      <find>Math.random</find>
+      <find>math.random</find>
+      <find>math.</find>
+      <find>Math.ra</find>
+      <find>Math.rando</find>
+      <find>Math.rand</find>
+      <find>sig</find>
+      <find>sigmoid</find>
+      <find>combinar</find>
+      <find>mutar</find>
+      <find>syste</find>
+      <find>-6.783960250000011E8%</find>
+      <find>generar</find>
+      <find>re</find>
+      <find>red</find>
+      <find>calc</find>
+      <find>Entrenamiento[]</find>
+      <find>cache</find>
+      <find>Aptitud:</find>
+      <find>sinprocesar</find>
+      <find>salida(</find>
+      <find>salida()</find>
+      <find>bias</find>
+      <find>neuro</find>
+      <find>pobla</find>
+      <find>mutacion</find>
+      <find>peq</find>
+      <find>config</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Code\ANN\src\main</dir>
+      <dir>D:\Code\ANN\src\neural</dir>
+      <dir>D:\Code\ANN\src\genetic</dir>
+      <dir>D:\Code\ANN\src\</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/neural/CapaEntrada.java" />
+        <option value="$PROJECT_DIR$/src/genetic/Genoma.java" />
+        <option value="$PROJECT_DIR$/src/main/Soraya.java" />
+        <option value="$PROJECT_DIR$/src/genetic/topIndexes.java" />
+        <option value="$PROJECT_DIR$/src/genetic/TopIndexes.java" />
+        <option value="$PROJECT_DIR$/src/neural/Sinapsis.java" />
+        <option value="$PROJECT_DIR$/src/test/PoblacionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/IndividuoTest.java" />
+        <option value="$PROJECT_DIR$/src/neural/Neurona.java" />
+        <option value="$PROJECT_DIR$/src/calculator/XOR.java" />
+        <option value="$PROJECT_DIR$/src/trainning/IEntrenador.java" />
+        <option value="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/neural/Cache.java" />
+        <option value="$PROJECT_DIR$/src/neural/NeuronaSalidaConCache.java" />
+        <option value="$PROJECT_DIR$/src/neural/NeuronaOcultaConCache.java" />
+        <option value="$PROJECT_DIR$/src/neural/CapaSalidaConCache.java" />
+        <option value="$PROJECT_DIR$/src/neural/RedNeuronalConCache.java" />
+        <option value="$PROJECT_DIR$/src/neural/CapaOcultaConCache.java" />
+        <option value="$PROJECT_DIR$/src/calculator/A.java" />
+        <option value="$PROJECT_DIR$/src/calculator/B.java" />
+        <option value="$PROJECT_DIR$/src/calculator/asd.java" />
+        <option value="$PROJECT_DIR$/src/neural/PostProcesador.java" />
+        <option value="$PROJECT_DIR$/src/neural/PostProcesadorDummy.java" />
+        <option value="$PROJECT_DIR$/src/processing/PostProcesadorDummy.java" />
+        <option value="$PROJECT_DIR$/src/main/PoblacionSoraya.java" />
+        <option value="$PROJECT_DIR$/src/trainning/Entrenamiento.java" />
+        <option value="$PROJECT_DIR$/src/processing/PostProcesador.java" />
+        <option value="$PROJECT_DIR$/src/test/RedNeuronalTest.java" />
+        <option value="$PROJECT_DIR$/src/genetic/Poblacion.java" />
+        <option value="$PROJECT_DIR$/src/trainning/EntreadorAbstracto.java" />
+        <option value="$PROJECT_DIR$/src/main/MainSoraya.java" />
+        <option value="$PROJECT_DIR$/src/processing/PostProcessadorXOR.java" />
+        <option value="$PROJECT_DIR$/src/processing/PostProcesadorColorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/PostProcesadorColorTest.java" />
+        <option value="$PROJECT_DIR$/src/genetic/Noe.java" />
+        <option value="$PROJECT_DIR$/src/main/MainVeronica.java" />
+        <option value="$PROJECT_DIR$/src/main/InteligenciaArtificial.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/neural/CapaSalida.java" />
+        <option value="$PROJECT_DIR$/src/neural/NeuronaSalida.java" />
+        <option value="$PROJECT_DIR$/src/neural/NeuronaOculta.java" />
+        <option value="$PROJECT_DIR$/src/neural/RedNeuronal.java" />
+        <option value="$PROJECT_DIR$/src/neural/CapaOculta.java" />
+        <option value="$PROJECT_DIR$/src/processing/PostProcesadorColor.java" />
+        <option value="$PROJECT_DIR$/src/genetic/Individuo.java" />
+        <option value="$PROJECT_DIR$/src/trainning/EntrenadorConfig.java" />
+        <option value="$PROJECT_DIR$/src/trainning/EntrenadorGenetico.java" />
+        <option value="$PROJECT_DIR$/src/main/Veronica.java" />
+        <option value="$PROJECT_DIR$/src/com/arensis/ann/main/Veronica.java" />
+        <option value="$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcesadorColorEstricto.java" />
+        <option value="$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcesadorColorSemiestricto.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1223" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ANN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ANN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ANN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ANN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ANN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ANN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ann" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ANN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ANN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ann" type="462c0819:PsiDirectoryNode" />
+              <item name="genetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ANN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ANN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ann" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ANN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ANN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ann" type="462c0819:PsiDirectoryNode" />
+              <item name="neural" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ANN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ANN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ann" type="462c0819:PsiDirectoryNode" />
+              <item name="processing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ann" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="D:/Media/Desktop" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="processing" />
+      <recent name="test" />
+      <recent name="genetic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.arensis.ann.processing" />
+      <recent name="neural" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arensis.ann.main.Main" />
+      <module name="ANN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arensis.ann.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainSoraya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arensis.ann.main.MainSoraya" />
+      <module name="ANN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arensis.ann.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainVeronica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MainVeronica" />
+      <module name="ANN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arensis.ann.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PostProcesadorColorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ANN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arensis.ann.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.arensis.ann.test" />
+      <option name="MAIN_CLASS_NAME" value="com.arensis.ann.test.PostProcesadorColorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PostProcesadorColorTest.procesar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ANN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arensis.ann.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.arensis.ann.test" />
+      <option name="MAIN_CLASS_NAME" value="com.arensis.ann.test.PostProcesadorColorTest" />
+      <option name="METHOD_NAME" value="procesar" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainSoraya" />
+      <item itemvalue="Application.MainVeronica" />
+      <item itemvalue="JUnit.PostProcesadorColorTest.procesar" />
+      <item itemvalue="JUnit.PostProcesadorColorTest" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainVeronica" />
+        <item itemvalue="JUnit.PostProcesadorColorTest" />
+        <item itemvalue="JUnit.PostProcesadorColorTest.procesar" />
+        <item itemvalue="Application.MainSoraya" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af924a5c-b5d2-47fc-a641-9e9ec38352dc" name="Default" comment="" />
+      <created>1529682251178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529682251178</updated>
+      <workItem from="1529682257599" duration="4976000" />
+      <workItem from="1529707091404" duration="5551000" />
+      <workItem from="1529736133434" duration="9525000" />
+      <workItem from="1529749730116" duration="7037000" />
+      <workItem from="1529790801942" duration="8444000" />
+      <workItem from="1529836819516" duration="9967000" />
+      <workItem from="1529858222541" duration="136000" />
+      <workItem from="1529858439520" duration="17000" />
+      <workItem from="1529858794314" duration="17000" />
+      <workItem from="1529861445988" duration="702000" />
+      <workItem from="1530116398020" duration="10765000" />
+      <workItem from="1530127266404" duration="3950000" />
+      <workItem from="1530374385946" duration="8270000" />
+      <workItem from="1530861973962" duration="1023000" />
+      <workItem from="1530874922282" duration="7589000" />
+      <workItem from="1530887560524" duration="2169000" />
+      <workItem from="1530898432687" duration="3207000" />
+      <workItem from="1530959065074" duration="8557000" />
+      <workItem from="1531007878234" duration="2429000" />
+      <workItem from="1531072575436" duration="705000" />
+      <workItem from="1534627581681" duration="1474000" />
+      <workItem from="1535191248268" duration="206000" />
+      <workItem from="1535191934266" duration="1211000" />
+      <workItem from="1535193716220" duration="873000" />
+      <workItem from="1535247292147" duration="37000" />
+      <workItem from="1535651112951" duration="907000" />
+      <workItem from="1535820214544" duration="2689000" />
+      <workItem from="1536163692473" duration="1358000" />
+      <workItem from="1537549410234" duration="2140000" />
+      <workItem from="1537982913882" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="IndividuoTest_combinarGenes - 2018.06.24 at 17h 11m 20s.xml">
+      <configuration name="IndividuoTest.combinarGenes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndividuoTest_combinarGenes - 2018.06.24 at 17h 21m 23s.xml">
+      <configuration name="IndividuoTest.combinarGenes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IndividuoTest_getADN - 2018.06.27 at 21h 34m 55s.xml">
+      <configuration name="IndividuoTest.getADN" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostProcesadorColorTest_procesar - 2018.07.06 at 16h 29m 02s.xml">
+      <configuration name="PostProcesadorColorTest.procesar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostProcesadorColorTest_procesar - 2018.07.06 at 16h 29m 15s.xml">
+      <configuration name="PostProcesadorColorTest.procesar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostProcesadorColorTest_procesar - 2018.07.06 at 16h 29m 23s.xml">
+      <configuration name="PostProcesadorColorTest.procesar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostProcesadorColorTest_procesar - 2018.07.06 at 16h 31m 32s.xml">
+      <configuration name="PostProcesadorColorTest.procesar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostProcesadorColorTest_procesar - 2018.07.06 at 16h 33m 09s.xml">
+      <configuration name="PostProcesadorColorTest.procesar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostProcesadorColorTest - 2018.07.06 at 16h 33m 46s.xml">
+      <configuration name="PostProcesadorColorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostProcesadorColorTest - 2018.07.06 at 16h 36m 27s.xml">
+      <configuration name="PostProcesadorColorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106606000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005208" side_tool="true" weight="0.32943678" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.39106753" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.416122" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32943678" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/arensis/ann/trainning/EntrenadorGenetico.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/arensis/ann/neural/CapaSalida.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/arensis/ann/main/Veronica.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/arensis/ann/trainning/EntrenadorGenetico.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="51" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.alelo.capasOcultas[0].neuronas[0].sinapsis[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>getEntrenamientos().length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getErrorMedio(individuo.getAlelo())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>salidaEsperada.equals(obtenida)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>100-(getErrorMedio(individuo.getAlelo())*100)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.round(salidas[0])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entrenamientos[9001]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entrenamientos[9000]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entrenamientos[900]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entrenamientos[800]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/XORTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/imageio/ImageIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1307" selection-start-line="1307" selection-end-line="1307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural/NeuronaOcultaConCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/neural/NeuronaSalidaConCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/neural/CapaOcultaConCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/calculator/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/calculator/B.java" />
+    <entry file="file://$PROJECT_DIR$/src/calculator/asd.java" />
+    <entry file="file://$PROJECT_DIR$/src/neural/CapaSalidaConCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IndividuoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/PoblacionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/PoblacionSoraya.java" />
+    <entry file="file://$PROJECT_DIR$/src/neural/RedNeuronalConCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/RedNeuronalTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/calculator/XOR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/CapaEntrada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/ExcepcionNeuronal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcesadorDummy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/trainning/IEntrenador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/test/PostProcesadorColorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcessadorXOR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/trainning/Entrenamiento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/genetic/Noe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/JLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="208" column="56" lean-forward="true" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/CapaOculta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/CapaSalida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/RedNeuronal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="82" column="24" lean-forward="true" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/genetic/Poblacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/genetic/Individuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/trainning/EntreadorAbstracto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcesador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/main/MainSoraya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/trainning/EntrenadorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="218" column="24" selection-start-line="218" selection-start-column="24" selection-end-line="218" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/genetic/TopIndexes.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/main/Veronica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="111" column="66" selection-start-line="111" selection-start-column="66" selection-end-line="111" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcesadorColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcesadorColorEstricto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/processing/PostProcesadorColorSemiestricto.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/trainning/EntrenadorGenetico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="61" column="50" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/NeuronaSalida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/main/InteligenciaArtificial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Propagacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/NeuronaEntrada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Capa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Neurona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/NeuronaOculta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arensis/ann/neural/Sinapsis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Veronica:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ANN</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
